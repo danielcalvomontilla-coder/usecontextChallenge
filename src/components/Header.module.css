@@ -1,0 +1,14 @@
+.headerTop {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+
+}
+
+.headerTop nav {
+    display: flex;
+    gap: 20px;
+}
